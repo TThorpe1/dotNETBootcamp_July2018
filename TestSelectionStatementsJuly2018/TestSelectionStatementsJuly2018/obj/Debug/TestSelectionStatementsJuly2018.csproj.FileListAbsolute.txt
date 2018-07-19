@@ -1,0 +1,6 @@
+c:\users\kamel\documents\visual studio 2017\Projects\TestSelectionStatementsJuly2018\TestSelectionStatementsJuly2018\bin\Debug\TestSelectionStatementsJuly2018.exe.config
+c:\users\kamel\documents\visual studio 2017\Projects\TestSelectionStatementsJuly2018\TestSelectionStatementsJuly2018\bin\Debug\TestSelectionStatementsJuly2018.exe
+c:\users\kamel\documents\visual studio 2017\Projects\TestSelectionStatementsJuly2018\TestSelectionStatementsJuly2018\bin\Debug\TestSelectionStatementsJuly2018.pdb
+c:\users\kamel\documents\visual studio 2017\Projects\TestSelectionStatementsJuly2018\TestSelectionStatementsJuly2018\obj\Debug\TestSelectionStatementsJuly2018.csprojResolveAssemblyReference.cache
+c:\users\kamel\documents\visual studio 2017\Projects\TestSelectionStatementsJuly2018\TestSelectionStatementsJuly2018\obj\Debug\TestSelectionStatementsJuly2018.exe
+c:\users\kamel\documents\visual studio 2017\Projects\TestSelectionStatementsJuly2018\TestSelectionStatementsJuly2018\obj\Debug\TestSelectionStatementsJuly2018.pdb

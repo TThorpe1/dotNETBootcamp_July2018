@@ -1,0 +1,6 @@
+c:\users\kamel\documents\visual studio 2017\Projects\Day1Demo\Day1Demo\bin\Debug\Day1Demo.exe.config
+c:\users\kamel\documents\visual studio 2017\Projects\Day1Demo\Day1Demo\bin\Debug\Day1Demo.exe
+c:\users\kamel\documents\visual studio 2017\Projects\Day1Demo\Day1Demo\bin\Debug\Day1Demo.pdb
+c:\users\kamel\documents\visual studio 2017\Projects\Day1Demo\Day1Demo\obj\Debug\Day1Demo.csprojResolveAssemblyReference.cache
+c:\users\kamel\documents\visual studio 2017\Projects\Day1Demo\Day1Demo\obj\Debug\Day1Demo.exe
+c:\users\kamel\documents\visual studio 2017\Projects\Day1Demo\Day1Demo\obj\Debug\Day1Demo.pdb
