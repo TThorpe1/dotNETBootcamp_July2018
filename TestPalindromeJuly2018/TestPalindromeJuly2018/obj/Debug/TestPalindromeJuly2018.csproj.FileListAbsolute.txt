@@ -1,0 +1,6 @@
+c:\users\kamel\documents\visual studio 2017\Projects\TestPalindromeJuly2018\TestPalindromeJuly2018\bin\Debug\TestPalindromeJuly2018.exe.config
+c:\users\kamel\documents\visual studio 2017\Projects\TestPalindromeJuly2018\TestPalindromeJuly2018\bin\Debug\TestPalindromeJuly2018.exe
+c:\users\kamel\documents\visual studio 2017\Projects\TestPalindromeJuly2018\TestPalindromeJuly2018\bin\Debug\TestPalindromeJuly2018.pdb
+c:\users\kamel\documents\visual studio 2017\Projects\TestPalindromeJuly2018\TestPalindromeJuly2018\obj\Debug\TestPalindromeJuly2018.csprojResolveAssemblyReference.cache
+c:\users\kamel\documents\visual studio 2017\Projects\TestPalindromeJuly2018\TestPalindromeJuly2018\obj\Debug\TestPalindromeJuly2018.exe
+c:\users\kamel\documents\visual studio 2017\Projects\TestPalindromeJuly2018\TestPalindromeJuly2018\obj\Debug\TestPalindromeJuly2018.pdb
