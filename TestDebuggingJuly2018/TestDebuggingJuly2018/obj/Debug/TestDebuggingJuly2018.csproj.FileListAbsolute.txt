@@ -1,0 +1,5 @@
+c:\users\kamel\documents\visual studio 2017\Projects\TestDebuggingJuly2018\TestDebuggingJuly2018\bin\Debug\TestDebuggingJuly2018.exe.config
+c:\users\kamel\documents\visual studio 2017\Projects\TestDebuggingJuly2018\TestDebuggingJuly2018\bin\Debug\TestDebuggingJuly2018.exe
+c:\users\kamel\documents\visual studio 2017\Projects\TestDebuggingJuly2018\TestDebuggingJuly2018\bin\Debug\TestDebuggingJuly2018.pdb
+c:\users\kamel\documents\visual studio 2017\Projects\TestDebuggingJuly2018\TestDebuggingJuly2018\obj\Debug\TestDebuggingJuly2018.exe
+c:\users\kamel\documents\visual studio 2017\Projects\TestDebuggingJuly2018\TestDebuggingJuly2018\obj\Debug\TestDebuggingJuly2018.pdb
