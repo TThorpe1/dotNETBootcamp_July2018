@@ -1,0 +1,6 @@
+c:\users\kamel\documents\visual studio 2017\Projects\TestCollectionsJuly2018\TestCollectionsJuly2018\bin\Debug\TestCollectionsJuly2018.exe.config
+c:\users\kamel\documents\visual studio 2017\Projects\TestCollectionsJuly2018\TestCollectionsJuly2018\bin\Debug\TestCollectionsJuly2018.exe
+c:\users\kamel\documents\visual studio 2017\Projects\TestCollectionsJuly2018\TestCollectionsJuly2018\bin\Debug\TestCollectionsJuly2018.pdb
+c:\users\kamel\documents\visual studio 2017\Projects\TestCollectionsJuly2018\TestCollectionsJuly2018\obj\Debug\TestCollectionsJuly2018.csprojResolveAssemblyReference.cache
+c:\users\kamel\documents\visual studio 2017\Projects\TestCollectionsJuly2018\TestCollectionsJuly2018\obj\Debug\TestCollectionsJuly2018.exe
+c:\users\kamel\documents\visual studio 2017\Projects\TestCollectionsJuly2018\TestCollectionsJuly2018\obj\Debug\TestCollectionsJuly2018.pdb
