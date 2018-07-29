@@ -1,0 +1,6 @@
+c:\users\kamel\documents\visual studio 2017\Projects\PowerFunction\PowerFunction\bin\Debug\PowerFunction.exe.config
+c:\users\kamel\documents\visual studio 2017\Projects\PowerFunction\PowerFunction\bin\Debug\PowerFunction.exe
+c:\users\kamel\documents\visual studio 2017\Projects\PowerFunction\PowerFunction\bin\Debug\PowerFunction.pdb
+c:\users\kamel\documents\visual studio 2017\Projects\PowerFunction\PowerFunction\obj\Debug\PowerFunction.csprojResolveAssemblyReference.cache
+c:\users\kamel\documents\visual studio 2017\Projects\PowerFunction\PowerFunction\obj\Debug\PowerFunction.exe
+c:\users\kamel\documents\visual studio 2017\Projects\PowerFunction\PowerFunction\obj\Debug\PowerFunction.pdb
