@@ -10,25 +10,39 @@ namespace TestOOPJuly2018
     {
         static void Main(string[] args)
         {
+
             // List of Employees 
 
             List<Employee> employees = new List<Employee>();
 
+            Employee s1 = new Employee("Damien", "Rocchi", 1500000, "455-55-6655");
+            employees.Add(s1);
+
+            //// if you have no constructor
+            //Employee s2 = new Employee();
+            //s2.FirstName = "Damien";
+            //s2.LastName = "Rocchi";
+            //s2.Salary = 1500000;
+            //s2.SSN = "455-55-6655";
+
+
+
             // used to add new employees to the list 
             while (true)
             {
-                Employee temp = new Employee();
                 Console.WriteLine("Please provide the First Name:");
-                temp.FirstName = Console.ReadLine();
+                string FirstName = Console.ReadLine();
 
                 Console.WriteLine("Please provide the Last Name:");
-                temp.LastName = Console.ReadLine();
+                string LastName = Console.ReadLine();
 
                 Console.WriteLine("Please provide the SSN:");
-                temp.SSN = Console.ReadLine();
+                string SSN = Console.ReadLine();
 
                 Console.WriteLine("Please provide the Salary:");
-                temp.Salary = float.Parse(Console.ReadLine());
+                float Salary = float.Parse(Console.ReadLine());
+
+                Employee temp = new Employee(FirstName,LastName,Salary,SSN);
 
                 employees.Add(temp);// add the temp object to the employees list 
 

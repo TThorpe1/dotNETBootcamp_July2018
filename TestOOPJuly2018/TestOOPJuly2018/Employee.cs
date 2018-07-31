@@ -55,11 +55,39 @@ namespace TestOOPJuly2018
             get { return salary; }
 
         }
-         #endregion 
+        #endregion
 
         // Constructors 
+        // it is a method that is used to initialize the object's data
+        // This method will have the same name as the class
+        // can be only called when you create the object 
+        // every class has a default constructor: C# will write it for you 
 
-        // Methods 
+        public Employee()// default constructor (no-argument constructor)
+        {
+            FirstName = "not assigned";
+            LastName = "not assigned";
+            Salary = 40000;
+            SSN = "000-00-0000"; 
+        }
+
+        // overloaded constructor 
+        public Employee(string fn, string ln, float sal, string s)
+        {
+           // firstName = fn; 
+
+            FirstName = fn;
+            LastName = ln;
+            Salary = sal;
+            SSN = s;
+
+            // fn = FirstName; // Logical error!!!! 
+        }
+
+
+        // Methods
+        
+
 
     }
 }
