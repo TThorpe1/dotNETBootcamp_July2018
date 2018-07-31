@@ -36,7 +36,7 @@ namespace TestOOPJuly2018
         public string SSN
         {
             set {
-                if (!Regex.IsMatch(value, @"^\d{3}-\d{2}-\d{4}$\"))
+                if (!Regex.IsMatch(value, @"^\d{3}-\d{2}-\d{4}$"))
                 {
                     throw new Exception("SSN is not valid!");
                 }
@@ -86,8 +86,12 @@ namespace TestOOPJuly2018
 
 
         // Methods
-        
 
+        public virtual void PrintInfo()
+        {
+            Console.WriteLine($"{LastName},{FirstName}, SSN: {SSN}, Salary: {Salary}");
+
+        }
 
     }
 }
