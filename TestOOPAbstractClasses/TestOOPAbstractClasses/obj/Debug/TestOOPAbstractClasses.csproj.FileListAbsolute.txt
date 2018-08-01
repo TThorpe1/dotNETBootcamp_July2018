@@ -1,0 +1,6 @@
+c:\users\kamel\documents\visual studio 2017\Projects\TestOOPAbstractClasses\TestOOPAbstractClasses\bin\Debug\TestOOPAbstractClasses.exe.config
+c:\users\kamel\documents\visual studio 2017\Projects\TestOOPAbstractClasses\TestOOPAbstractClasses\bin\Debug\TestOOPAbstractClasses.exe
+c:\users\kamel\documents\visual studio 2017\Projects\TestOOPAbstractClasses\TestOOPAbstractClasses\bin\Debug\TestOOPAbstractClasses.pdb
+c:\users\kamel\documents\visual studio 2017\Projects\TestOOPAbstractClasses\TestOOPAbstractClasses\obj\Debug\TestOOPAbstractClasses.csprojResolveAssemblyReference.cache
+c:\users\kamel\documents\visual studio 2017\Projects\TestOOPAbstractClasses\TestOOPAbstractClasses\obj\Debug\TestOOPAbstractClasses.exe
+c:\users\kamel\documents\visual studio 2017\Projects\TestOOPAbstractClasses\TestOOPAbstractClasses\obj\Debug\TestOOPAbstractClasses.pdb
