@@ -1,0 +1,6 @@
+c:\users\kamel\documents\visual studio 2017\Projects\LinkedLists\LinkedLists\bin\Debug\LinkedLists.exe.config
+c:\users\kamel\documents\visual studio 2017\Projects\LinkedLists\LinkedLists\bin\Debug\LinkedLists.exe
+c:\users\kamel\documents\visual studio 2017\Projects\LinkedLists\LinkedLists\bin\Debug\LinkedLists.pdb
+c:\users\kamel\documents\visual studio 2017\Projects\LinkedLists\LinkedLists\obj\Debug\LinkedLists.csprojResolveAssemblyReference.cache
+c:\users\kamel\documents\visual studio 2017\Projects\LinkedLists\LinkedLists\obj\Debug\LinkedLists.exe
+c:\users\kamel\documents\visual studio 2017\Projects\LinkedLists\LinkedLists\obj\Debug\LinkedLists.pdb
