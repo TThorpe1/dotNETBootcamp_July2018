@@ -1,0 +1,15 @@
+﻿
+@{
+    ViewBag.Title = "SearchProducts";
+}
+
+<h2>SearchProducts</h2>
+
+<table border="1">
+    @foreach (var product in ViewBag.SearchResults)
+    {
+
+        <tr><td> @product </td></tr>
+
+    }
+</table>
